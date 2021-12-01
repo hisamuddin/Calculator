@@ -36,7 +36,7 @@ namespace CalculatorProgram
                 {
                     case "a":
                         result = num1 + num2;
-                        writer.WriteValue("Add");
+                        writer.WriteValue("Additon");
                         break;
                     case "s":
                         result = num1 - num2;
